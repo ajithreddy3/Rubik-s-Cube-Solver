@@ -169,7 +169,7 @@ done
 
 ## 🙌 Author
 
-**Devansh Wadhvana**
+**Ajith Reddy**
 
 ---
 
