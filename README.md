@@ -9,7 +9,7 @@ A fast Rubik’s Cube solver written in **C++** with a clean, modular layout:
 - **main.cpp** – example CLI entrypoint
 - **CMakeLists.txt** – cross‑platform build
 
-> Built by **Devansh Wadhvana** to explore efficient cube representations, admissible heuristics, and high‑performance search.
+> Built by **Ajith Reddy** to explore efficient cube representations, admissible heuristics, and high‑performance search.
 
 ---
 
